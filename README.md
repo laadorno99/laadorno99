@@ -16,9 +16,5 @@ I am a Cybersecurity student focused on Network Security and Threat Intelligence
 - Networking: Basic Configuration, Network Protocols, Networking Basics.
 - Languages: C/C++, Python.
 
----
-
-### Contact
-www.linkedin.com/in/lara-adorno
 
 
