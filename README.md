@@ -19,6 +19,6 @@ I am a Cybersecurity student focused on Network Security and Threat Intelligence
 ---
 
 ### Contact
-[LinkedIn Profile] www.linkedin.com/in/lara-adorno
+www.linkedin.com/in/lara-adorno
 
 
