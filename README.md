@@ -1,6 +1,6 @@
 # Lara Adorno
 
-### Cybersecurity Student | GPSI - Escola Joaquim de Araújo
+### Cybersecurity Student | GPSI 
 
 I am a Cybersecurity student focused on Network Security and Threat Intelligence. Currently building my foundation through professional certifications and hands-on projects.
 
